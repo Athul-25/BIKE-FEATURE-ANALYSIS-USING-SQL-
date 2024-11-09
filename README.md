@@ -8,18 +8,3 @@ enables brand-level analysis to uncover each manufacturer’s strengths and area
 goal is to find the best bike for city commuting, long-distance touring, or performance racing, this dataset offers the critical data points needed for thorough 
 evaluation and selection.
 
-column description
-Variant Name      Version of the bike model with specific features.
-Model_name      	Main model name of the bike.
-on_road_price	    Purchase price, including taxes and fees.
-Engine Type	      Engine configuration (e.g., single-cylinder, 4-stroke).
-Displacement	    Engine capacity in cc, affecting power.
-Max Torque	      Peak torque output in Nm.
-Cooling System	  Engine cooling type (e.g., air-cooled, liquid-cooled).
-start_type	      Engine start method (e.g., kick, self-start).
-Fuel Supply	      Fuel delivery system, such as fuel injection.
-Ignition	        Ignition type for combustion control.
-Gear Box	        Number of gears (e.g., CVT, 6-speed).
-Mileage	          Fuel efficiency in km/l.
-Body Type	        Classification by bike design (e.g., scooter, cruiser).
-company	          Manufacturer or brand name.
