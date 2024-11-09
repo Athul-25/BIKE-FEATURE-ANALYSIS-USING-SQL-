@@ -8,3 +8,6 @@ enables brand-level analysis to uncover each manufacturer’s strengths and area
 goal is to find the best bike for city commuting, long-distance touring, or performance racing, this dataset offers the critical data points needed for thorough 
 evaluation and selection.
 
+[Download the dataset](https://raw.githubusercontent.com/Athul-25/BIKE-FEATURE-ANALYSIS-USING-SQL-/refs/heads/main/Bike_Features.csv)
+
+
